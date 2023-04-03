@@ -15,14 +15,14 @@ categories = {
 }
 
 input_file = 'input.csv'
-machines = []
+vehicles = []
 with open(input_file) as f:
     reader = csv.DictReader(f)
     for row in reader:
         row['id'] = hash(str(row))
         row['hp'] = int(row['hp'])
         row['price'] = int(row['price'])
-        machines.append(row)
+        vehicles.append(row)
 
 output_dir = 'output_data'
 if not os.path.exists(output_dir):
@@ -31,19 +31,24 @@ if not os.path.exists(output_dir):
 for category, condition in categories.items():
     category_file = os.path.join(output_dir, category + '.json')
     if category == 'cheap_cars':
-        category_data = [machine for machine in machines if condition(machine['price'])]
+        category_data = [vehicle for vehicle in vehicles if
+                         condition(vehicle['price'])]
     elif category == 'medium_cars':
-        category_data = [machine for machine in machines if condition(machine['price'])]
+        category_data = [vehicle for vehicle in vehicles if
+                         condition(vehicle['price'])]
     elif category == 'expensive_cars':
-        category_data = [machine for machine in machines if condition(machine['price'])]
+        category_data = [vehicle for vehicle in vehicles if
+                         condition(vehicle['price'])]
     else:
-        category_data = [machine for machine in machines if condition(machine['hp'])]
+        category_data = [vehicle for vehicle in vehicles if
+                         condition(vehicle['hp'])]
     with open(category_file, 'w') as f:
         json.dump(category_data, f, indent=2)
 
-brands = set(machine['brand'] for machine in machines)
+brands = set(vehicle['brand'] for vehicle in vehicles)
 for brand in brands:
     brand_file = os.path.join(output_dir, brand.lower() + '.json')
-    brand_data = [machine for machine in machines if machine['brand'].lower() == brand.lower()]
+    brand_data = [vehicle for vehicle in vehicles if
+                  vehicle['brand'].lower() == brand.lower()]
     with open(brand_file, 'w') as f:
         json.dump(brand_data, f, indent=2)
