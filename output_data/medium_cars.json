@@ -1,0 +1,107 @@
+[
+  {
+    "id": -8632834287742673728,
+    "brand": "Honda",
+    "model": "Civic",
+    "hp": 158,
+    "price": 22500
+  },
+  {
+    "id": -8556107813744009614,
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "hp": 147,
+    "price": 26000
+  },
+  {
+    "id": 2078349836753881874,
+    "brand": "BMW",
+    "model": "3 Series",
+    "hp": 255,
+    "price": 42000
+  },
+  {
+    "id": -8021935884391345702,
+    "brand": "Audi",
+    "model": "A4",
+    "hp": 261,
+    "price": 44000
+  },
+  {
+    "id": 860624843245560585,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "hp": 255,
+    "price": 47000
+  },
+  {
+    "id": 7823294571330984367,
+    "brand": "Ford",
+    "model": "Mustang",
+    "hp": 310,
+    "price": 32000
+  },
+  {
+    "id": 2472192973350469164,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "hp": 335,
+    "price": 36000
+  },
+  {
+    "id": -5096798111244619005,
+    "brand": "Dodge",
+    "model": "Challenger",
+    "hp": 305,
+    "price": 30000
+  },
+  {
+    "id": -5372648258154992306,
+    "brand": "Mazda",
+    "model": "MX-5",
+    "hp": 181,
+    "price": 27000
+  },
+  {
+    "id": 5971041892493298796,
+    "brand": "Jeep",
+    "model": "Wrangler",
+    "hp": 270,
+    "price": 39875
+  },
+  {
+    "id": 4234904631145481214,
+    "brand": "Ram",
+    "model": "1500",
+    "hp": 395,
+    "price": 49950
+  },
+  {
+    "id": 3969122589757303431,
+    "brand": "Subaru",
+    "model": "WRX",
+    "hp": 268,
+    "price": 29995
+  },
+  {
+    "id": 8383883082499896806,
+    "brand": "Opel",
+    "model": "Insignia",
+    "hp": 200,
+    "price": 39790
+  },
+  {
+    "id": -5941383213943683224,
+    "brand": "Opel",
+    "model": "Astra",
+    "hp": 150,
+    "price": 28990
+  },
+  {
+    "id": 7608883093128500755,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "hp": 283,
+    "price": 42990
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2886044447227178099,
+    "brand": "Tesla",
+    "model": "Model S",
+    "hp": 778,
+    "price": 135990
+  },
+  {
+    "id": 7608883093128500755,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "hp": 283,
+    "price": 42990
+  },
+  {
+    "id": 3065259336289152052,
+    "brand": "Tesla",
+    "model": "Model Y",
+    "hp": 384,
+    "price": 52990
+  }
+]

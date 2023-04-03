@@ -1,0 +1,23 @@
+[
+  {
+    "id": 8383883082499896806,
+    "brand": "Opel",
+    "model": "Insignia",
+    "hp": 200,
+    "price": 39790
+  },
+  {
+    "id": -5941383213943683224,
+    "brand": "Opel",
+    "model": "Astra",
+    "hp": 150,
+    "price": 28990
+  },
+  {
+    "id": -1985977586368731318,
+    "brand": "Opel",
+    "model": "Corsa",
+    "hp": 100,
+    "price": 15490
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2472192973350469164,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "hp": 335,
+    "price": 36000
+  },
+  {
+    "id": 2449156696821887828,
+    "brand": "Chevrolet",
+    "model": "Spark",
+    "hp": 98,
+    "price": 13400
+  }
+]

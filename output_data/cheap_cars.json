@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1111849745498565608,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "hp": 139,
+    "price": 19500
+  },
+  {
+    "id": 8643565740950979317,
+    "brand": "Nissan",
+    "model": "Versa",
+    "hp": 122,
+    "price": 14730
+  },
+  {
+    "id": -2576715394415433012,
+    "brand": "Kia",
+    "model": "Rio",
+    "hp": 120,
+    "price": 15850
+  },
+  {
+    "id": 2449156696821887828,
+    "brand": "Chevrolet",
+    "model": "Spark",
+    "hp": 98,
+    "price": 13400
+  },
+  {
+    "id": -7551728172448567827,
+    "brand": "Hyundai",
+    "model": "Accent",
+    "hp": 120,
+    "price": 15395
+  },
+  {
+    "id": 8974735562576477160,
+    "brand": "Mitsubishi",
+    "model": "Mirage",
+    "hp": 78,
+    "price": 14295
+  },
+  {
+    "id": 8487945456451304155,
+    "brand": "Kia",
+    "model": "Soul",
+    "hp": 147,
+    "price": 17590
+  },
+  {
+    "id": 2615471421232177453,
+    "brand": "Ford",
+    "model": "EcoSport",
+    "hp": 123,
+    "price": 19995
+  },
+  {
+    "id": -6535943635706275080,
+    "brand": "Honda",
+    "model": "Fit",
+    "hp": 128,
+    "price": 16990
+  },
+  {
+    "id": 2485762170061992240,
+    "brand": "Mazda",
+    "model": "CX-3",
+    "hp": 148,
+    "price": 19350
+  },
+  {
+    "id": -1985977586368731318,
+    "brand": "Opel",
+    "model": "Corsa",
+    "hp": 100,
+    "price": 15490
+  }
+]

@@ -1,0 +1,45 @@
+id,brand,model,hp,price
+1,Toyota,Corolla,139,19500
+2,Honda,Civic,158,22500
+3,Volkswagen,Golf,147,26000
+4,BMW,3 Series,255,42000
+5,Audi,A4,261,44000
+6,Mercedes-Benz,C-Class,255,47000
+7,Ford,Mustang,310,32000
+8,Chevrolet,Camaro,335,36000
+9,Dodge,Challenger,305,30000
+10,Mazda,MX-5,181,27000
+11,Porsche,911 GT3,502,93000
+12,Mercedes-Benz,AMG GT,523,95000
+13,BMW,M5,600,87000
+14,Audi,RS7,591,98000
+15,Lamborghini,Huracan,631,96000
+16,Nissan,Versa,122,14730
+17,Kia,Rio,120,15850
+18,Chevrolet,Spark,98,13400
+19,Hyundai,Accent,120,15395
+20,Mitsubishi,Mirage,78,14295
+21,Kia,Soul,147,17590
+22,Ford,EcoSport,123,19995
+23,Jeep,Wrangler,270,39875
+24,Ram,1500,395,49950
+25,Subaru,WRX,268,29995
+26,Lexus,LC 500,471,93900
+27,Acura,NSX,573,157500
+28,Alfa Romeo,4C Spider,237,71895
+29,Jaguar,F-Type,296,63000
+30,Bentley,Continental GT,626,202500
+31,Ferrari,488 GTB,660,252800
+32,Tesla,Model S,778,135990
+33,Rolls-Royce,Ghost,563,332350
+34,Cadillac,Escalade,420,85595
+35,Land Rover,Range Rover Sport,575,88950
+36,Opel,Insignia,200,39790
+37,Aston Martin,DBS,715,303974
+38,Genesis,G80,420,59450
+39,Honda,Fit,128,16990
+40,Opel,Astra,150,28990
+41,Mazda,CX-3,148,19350
+42,Tesla,Model 3,283,42990
+43,Tesla,Model Y,384,52990
+44,Opel,Corsa,100,15490

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 860624843245560585,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "hp": 255,
+    "price": 47000
+  },
+  {
+    "id": 4904827175295870650,
+    "brand": "Mercedes-Benz",
+    "model": "AMG GT",
+    "hp": 523,
+    "price": 95000
+  }
+]

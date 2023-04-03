@@ -1,0 +1,212 @@
+[
+  {
+    "id": 2078349836753881874,
+    "brand": "BMW",
+    "model": "3 Series",
+    "hp": 255,
+    "price": 42000
+  },
+  {
+    "id": -8021935884391345702,
+    "brand": "Audi",
+    "model": "A4",
+    "hp": 261,
+    "price": 44000
+  },
+  {
+    "id": 860624843245560585,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "hp": 255,
+    "price": 47000
+  },
+  {
+    "id": 7823294571330984367,
+    "brand": "Ford",
+    "model": "Mustang",
+    "hp": 310,
+    "price": 32000
+  },
+  {
+    "id": 2472192973350469164,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "hp": 335,
+    "price": 36000
+  },
+  {
+    "id": -5096798111244619005,
+    "brand": "Dodge",
+    "model": "Challenger",
+    "hp": 305,
+    "price": 30000
+  },
+  {
+    "id": -5372648258154992306,
+    "brand": "Mazda",
+    "model": "MX-5",
+    "hp": 181,
+    "price": 27000
+  },
+  {
+    "id": -2157362882608766522,
+    "brand": "Porsche",
+    "model": "911 GT3",
+    "hp": 502,
+    "price": 93000
+  },
+  {
+    "id": 4904827175295870650,
+    "brand": "Mercedes-Benz",
+    "model": "AMG GT",
+    "hp": 523,
+    "price": 95000
+  },
+  {
+    "id": -397204460098237215,
+    "brand": "BMW",
+    "model": "M5",
+    "hp": 600,
+    "price": 87000
+  },
+  {
+    "id": 791229654317262255,
+    "brand": "Audi",
+    "model": "RS7",
+    "hp": 591,
+    "price": 98000
+  },
+  {
+    "id": -5648197879365703988,
+    "brand": "Lamborghini",
+    "model": "Huracan",
+    "hp": 631,
+    "price": 96000
+  },
+  {
+    "id": 5971041892493298796,
+    "brand": "Jeep",
+    "model": "Wrangler",
+    "hp": 270,
+    "price": 39875
+  },
+  {
+    "id": 4234904631145481214,
+    "brand": "Ram",
+    "model": "1500",
+    "hp": 395,
+    "price": 49950
+  },
+  {
+    "id": 3969122589757303431,
+    "brand": "Subaru",
+    "model": "WRX",
+    "hp": 268,
+    "price": 29995
+  },
+  {
+    "id": -3389439750084451336,
+    "brand": "Lexus",
+    "model": "LC 500",
+    "hp": 471,
+    "price": 93900
+  },
+  {
+    "id": 5171019962042637966,
+    "brand": "Acura",
+    "model": "NSX",
+    "hp": 573,
+    "price": 157500
+  },
+  {
+    "id": 3575693898472838896,
+    "brand": "Alfa Romeo",
+    "model": "4C Spider",
+    "hp": 237,
+    "price": 71895
+  },
+  {
+    "id": 6490264674740828042,
+    "brand": "Jaguar",
+    "model": "F-Type",
+    "hp": 296,
+    "price": 63000
+  },
+  {
+    "id": -3271901196806626334,
+    "brand": "Bentley",
+    "model": "Continental GT",
+    "hp": 626,
+    "price": 202500
+  },
+  {
+    "id": 7554738831178569540,
+    "brand": "Ferrari",
+    "model": "488 GTB",
+    "hp": 660,
+    "price": 252800
+  },
+  {
+    "id": 2886044447227178099,
+    "brand": "Tesla",
+    "model": "Model S",
+    "hp": 778,
+    "price": 135990
+  },
+  {
+    "id": 2590883695112295868,
+    "brand": "Rolls-Royce",
+    "model": "Ghost",
+    "hp": 563,
+    "price": 332350
+  },
+  {
+    "id": 7265449413660245179,
+    "brand": "Cadillac",
+    "model": "Escalade",
+    "hp": 420,
+    "price": 85595
+  },
+  {
+    "id": 2709325144568645458,
+    "brand": "Land Rover",
+    "model": "Range Rover Sport",
+    "hp": 575,
+    "price": 88950
+  },
+  {
+    "id": 8383883082499896806,
+    "brand": "Opel",
+    "model": "Insignia",
+    "hp": 200,
+    "price": 39790
+  },
+  {
+    "id": -853832045456056244,
+    "brand": "Aston Martin",
+    "model": "DBS",
+    "hp": 715,
+    "price": 303974
+  },
+  {
+    "id": -308925091189780037,
+    "brand": "Genesis",
+    "model": "G80",
+    "hp": 420,
+    "price": 59450
+  },
+  {
+    "id": 7608883093128500755,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "hp": 283,
+    "price": 42990
+  },
+  {
+    "id": 3065259336289152052,
+    "brand": "Tesla",
+    "model": "Model Y",
+    "hp": 384,
+    "price": 52990
+  }
+]

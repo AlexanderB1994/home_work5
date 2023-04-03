@@ -1,0 +1,16 @@
+[
+  {
+    "id": 7823294571330984367,
+    "brand": "Ford",
+    "model": "Mustang",
+    "hp": 310,
+    "price": 32000
+  },
+  {
+    "id": 2615471421232177453,
+    "brand": "Ford",
+    "model": "EcoSport",
+    "hp": 123,
+    "price": 19995
+  }
+]
