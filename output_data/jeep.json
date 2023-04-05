@@ -1,9 +1,9 @@
 [
   {
-    "id": -7562961978707351125,
+    "id": "401893cb-4f97-4d38-85e7-136dbea7ee66",
     "brand": "Jeep",
     "model": "Wrangler",
     "hp": 270,
-    "price": 39875
+    "price": 39875.0
   }
 ]

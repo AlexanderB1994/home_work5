@@ -1,9 +1,9 @@
 [
   {
-    "id": 8636618447128607618,
+    "id": "cdd9f940-80b7-4ffe-a510-90a0df98e578",
     "brand": "Lamborghini",
     "model": "Huracan",
     "hp": 631,
-    "price": 96000
+    "price": 96000.0
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "id": 1563896105648074625,
+    "id": "592b0e46-460d-454f-a15e-167f0f843eca",
     "brand": "Ford",
     "model": "Mustang",
     "hp": 310,
-    "price": 32000
+    "price": 32000.0
   },
   {
-    "id": 1736986427653683970,
+    "id": "5d19f834-db4d-4515-9e9e-4c6f8f8ac493",
     "brand": "Ford",
     "model": "EcoSport",
     "hp": 123,
-    "price": 19995
+    "price": 19995.0
   }
 ]

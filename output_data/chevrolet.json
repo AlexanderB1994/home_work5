@@ -1,16 +1,16 @@
 [
   {
-    "id": -324688354763358786,
+    "id": "3b9b9a58-e7f9-4d44-80e3-15dee8841aaa",
     "brand": "Chevrolet",
     "model": "Camaro",
     "hp": 335,
-    "price": 36000
+    "price": 36000.0
   },
   {
-    "id": -2491860121467801869,
+    "id": "3d4921e9-28ae-4bdb-b687-0989f08853dd",
     "brand": "Chevrolet",
     "model": "Spark",
     "hp": 98,
-    "price": 13400
+    "price": 13400.0
   }
 ]

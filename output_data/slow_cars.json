@@ -1,23 +1,23 @@
 [
   {
-    "id": -2491860121467801869,
+    "id": "3d4921e9-28ae-4bdb-b687-0989f08853dd",
     "brand": "Chevrolet",
     "model": "Spark",
     "hp": 98,
-    "price": 13400
+    "price": 13400.0
   },
   {
-    "id": 3958736216993663134,
+    "id": "7aefd6ff-921f-4023-b88c-c9d3b71747b9",
     "brand": "Mitsubishi",
     "model": "Mirage",
     "hp": 78,
-    "price": 14295
+    "price": 14295.0
   },
   {
-    "id": -7367949536378755903,
+    "id": "7663fc22-fb6c-4ba2-af72-3c6867bddcc2",
     "brand": "Opel",
     "model": "Corsa",
     "hp": 100,
-    "price": 15490
+    "price": 15490.0
   }
 ]

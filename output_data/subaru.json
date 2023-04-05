@@ -1,9 +1,9 @@
 [
   {
-    "id": 9203839182426241786,
+    "id": "fab609b5-0482-48ef-a939-dbca5b0a2243",
     "brand": "Subaru",
     "model": "WRX",
     "hp": 268,
-    "price": 29995
+    "price": 29995.0
   }
 ]

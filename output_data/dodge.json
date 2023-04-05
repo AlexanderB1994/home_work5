@@ -1,9 +1,9 @@
 [
   {
-    "id": -6210311602251078332,
+    "id": "3ecca6b5-3841-41dc-8df0-380159d45b1f",
     "brand": "Dodge",
     "model": "Challenger",
     "hp": 305,
-    "price": 30000
+    "price": 30000.0
   }
 ]

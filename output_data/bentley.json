@@ -1,9 +1,9 @@
 [
   {
-    "id": 1643890507468660414,
+    "id": "48c8d76f-5739-48d2-a94e-5490312044ae",
     "brand": "Bentley",
     "model": "Continental GT",
     "hp": 626,
-    "price": 202500
+    "price": 202500.0
   }
 ]

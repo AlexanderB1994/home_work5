@@ -1,16 +1,16 @@
 [
   {
-    "id": 5083436653291127461,
+    "id": "fb2b7e3b-76d3-4f1e-8a43-d1f946c2d0b9",
     "brand": "Mercedes-Benz",
     "model": "C-Class",
     "hp": 255,
-    "price": 47000
+    "price": 47000.0
   },
   {
-    "id": -4868035210011446246,
+    "id": "b85b0edf-68c0-458f-8883-68ecc1e0c6fa",
     "brand": "Mercedes-Benz",
     "model": "AMG GT",
     "hp": 523,
-    "price": 95000
+    "price": 95000.0
   }
 ]

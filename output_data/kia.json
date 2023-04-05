@@ -1,16 +1,16 @@
 [
   {
-    "id": 8589853537580820119,
+    "id": "435e3b00-afa1-4c9a-8670-9c5fbf6adfd4",
     "brand": "Kia",
     "model": "Rio",
     "hp": 120,
-    "price": 15850
+    "price": 15850.0
   },
   {
-    "id": 1924360978687140943,
+    "id": "a8cbc786-ce8c-4018-9cd3-5212e43c24e9",
     "brand": "Kia",
     "model": "Soul",
     "hp": 147,
-    "price": 17590
+    "price": 17590.0
   }
 ]

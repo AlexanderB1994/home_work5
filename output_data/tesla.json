@@ -1,23 +1,23 @@
 [
   {
-    "id": -6637995296427558222,
+    "id": "fc534a79-e4d0-4cb8-bdee-ce1752d631ef",
     "brand": "Tesla",
     "model": "Model S",
     "hp": 778,
-    "price": 135990
+    "price": 135990.0
   },
   {
-    "id": -4058594009469449191,
+    "id": "61c3f45a-8f8d-44e5-8f84-71e3c7901dab",
     "brand": "Tesla",
     "model": "Model 3",
     "hp": 283,
-    "price": 42990
+    "price": 42990.0
   },
   {
-    "id": -5353639827747061900,
+    "id": "dbf617c9-6f59-4947-9902-7f06e18660d4",
     "brand": "Tesla",
     "model": "Model Y",
     "hp": 384,
-    "price": 52990
+    "price": 52990.0
   }
 ]
