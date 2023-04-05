@@ -1,209 +1,209 @@
 [
   {
-    "id": "23d9b7cf-cb81-4c4e-a3cd-d862896f2567",
+    "id": "acd4b94c-1572-42f2-a62b-eaaea3592950",
     "brand": "BMW",
     "model": "3 Series",
     "hp": 255,
     "price": 42000.0
   },
   {
-    "id": "10efe628-fd81-4c8f-b80a-9ba200264c83",
+    "id": "1f798699-6194-4b68-825f-52df51ad0293",
     "brand": "Audi",
     "model": "A4",
     "hp": 261,
     "price": 44000.0
   },
   {
-    "id": "fb2b7e3b-76d3-4f1e-8a43-d1f946c2d0b9",
+    "id": "99d252a3-9dfa-4c61-891b-0bc9a2224db7",
     "brand": "Mercedes-Benz",
     "model": "C-Class",
     "hp": 255,
     "price": 47000.0
   },
   {
-    "id": "592b0e46-460d-454f-a15e-167f0f843eca",
+    "id": "fa0ce9ef-b55a-433f-90ea-f13fd6687a10",
     "brand": "Ford",
     "model": "Mustang",
     "hp": 310,
     "price": 32000.0
   },
   {
-    "id": "3b9b9a58-e7f9-4d44-80e3-15dee8841aaa",
+    "id": "7bc17684-befa-4d91-a58d-a59dbcfcef7b",
     "brand": "Chevrolet",
     "model": "Camaro",
     "hp": 335,
     "price": 36000.0
   },
   {
-    "id": "3ecca6b5-3841-41dc-8df0-380159d45b1f",
+    "id": "6658dc08-9758-4abe-b933-851fa9b393cd",
     "brand": "Dodge",
     "model": "Challenger",
     "hp": 305,
     "price": 30000.0
   },
   {
-    "id": "5cf2fa40-af44-4f4f-9018-6925e931faaf",
+    "id": "7bb87429-5359-430a-a683-c65ead3e0c03",
     "brand": "Mazda",
     "model": "MX-5",
     "hp": 181,
     "price": 27000.0
   },
   {
-    "id": "7e9754ea-634a-44ed-8d12-2cff87fc54d5",
+    "id": "093cbe72-6af5-4edc-a1fe-50b5dbc517aa",
     "brand": "Porsche",
     "model": "911 GT3",
     "hp": 502,
     "price": 93000.0
   },
   {
-    "id": "b85b0edf-68c0-458f-8883-68ecc1e0c6fa",
+    "id": "29934d0f-1ad0-4f9f-9dac-c7da2305d6a2",
     "brand": "Mercedes-Benz",
     "model": "AMG GT",
     "hp": 523,
     "price": 95000.0
   },
   {
-    "id": "c9207a1d-c704-4ed6-b2d2-49c5c308343c",
+    "id": "726465e4-c6df-4239-a9c8-708b515d4ad7",
     "brand": "BMW",
     "model": "M5",
     "hp": 600,
     "price": 87000.0
   },
   {
-    "id": "9e729e34-340d-41aa-9fa2-7cc8588c4da1",
+    "id": "e755dcde-72c5-4ef2-b57a-bee7385522ef",
     "brand": "Audi",
     "model": "RS7",
     "hp": 591,
     "price": 98000.0
   },
   {
-    "id": "cdd9f940-80b7-4ffe-a510-90a0df98e578",
+    "id": "f774d4b7-d6f6-4623-8120-110a8af628b9",
     "brand": "Lamborghini",
     "model": "Huracan",
     "hp": 631,
     "price": 96000.0
   },
   {
-    "id": "401893cb-4f97-4d38-85e7-136dbea7ee66",
+    "id": "3536bc9c-4822-4e49-9ebb-df0519c68dfb",
     "brand": "Jeep",
     "model": "Wrangler",
     "hp": 270,
     "price": 39875.0
   },
   {
-    "id": "16f2d497-0dc3-4a8b-bd23-703dfd667877",
+    "id": "60fd02af-e9e0-47a3-a78f-5af8fc43da29",
     "brand": "Ram",
     "model": "1500",
     "hp": 395,
     "price": 49950.0
   },
   {
-    "id": "fab609b5-0482-48ef-a939-dbca5b0a2243",
+    "id": "f6722503-c4ea-4810-b225-3c438c6d233f",
     "brand": "Subaru",
     "model": "WRX",
     "hp": 268,
     "price": 29995.0
   },
   {
-    "id": "55ad6b45-1c69-48f5-9200-f9b2f8094e46",
+    "id": "83467514-210b-4448-ad57-35b85805914d",
     "brand": "Lexus",
     "model": "LC 500",
     "hp": 471,
     "price": 93900.0
   },
   {
-    "id": "585fd9f9-035c-495c-a06b-a08095cc4b5e",
+    "id": "053dbfcd-8ef0-477b-beed-949167896da7",
     "brand": "Acura",
     "model": "NSX",
     "hp": 573,
     "price": 157500.0
   },
   {
-    "id": "699526ea-7c34-406a-9080-65f6c60648c3",
+    "id": "fc68d38b-8f30-4379-a44f-6cd50694e3ec",
     "brand": "Alfa Romeo",
     "model": "4C Spider",
     "hp": 237,
     "price": 71895.0
   },
   {
-    "id": "fa4cc857-3f94-4047-b348-e97c8c7fd177",
+    "id": "7bef55f2-1ff9-4787-a0a5-8b09da269b23",
     "brand": "Jaguar",
     "model": "F-Type",
     "hp": 296,
     "price": 63000.0
   },
   {
-    "id": "48c8d76f-5739-48d2-a94e-5490312044ae",
+    "id": "bfb7ff58-d7c9-4e88-93bb-a2f3b051d100",
     "brand": "Bentley",
     "model": "Continental GT",
     "hp": 626,
     "price": 202500.0
   },
   {
-    "id": "eb7b94fc-f804-4a2f-8a66-5c6b22c3e483",
+    "id": "90b172db-7e87-42df-8a1f-698936c715f4",
     "brand": "Ferrari",
     "model": "488 GTB",
     "hp": 660,
     "price": 252800.0
   },
   {
-    "id": "fc534a79-e4d0-4cb8-bdee-ce1752d631ef",
+    "id": "3d2f704c-7f69-47c3-a23b-3aa47d6a553f",
     "brand": "Tesla",
     "model": "Model S",
     "hp": 778,
     "price": 135990.0
   },
   {
-    "id": "e3761e90-8000-45b0-a999-d3b1a63ae227",
+    "id": "e4f8af02-62be-4393-8b29-158508919516",
     "brand": "Rolls-Royce",
     "model": "Ghost",
     "hp": 563,
     "price": 332350.0
   },
   {
-    "id": "9a5d701c-5a75-4e41-b388-f9d56240fc17",
+    "id": "67e95f5f-4fcf-42fa-ab24-11ad19d521a6",
     "brand": "Cadillac",
     "model": "Escalade",
     "hp": 420,
     "price": 85595.0
   },
   {
-    "id": "e891a8d0-fa44-43f0-a076-ee8a2b0bba1f",
+    "id": "162352d9-bc8f-424a-9a59-ffdd29b9b474",
     "brand": "Land Rover",
     "model": "Range Rover Sport",
     "hp": 575,
     "price": 88950.0
   },
   {
-    "id": "33dae0db-2dea-470b-a9e2-732543bffcb0",
+    "id": "651de9d1-ec98-47d0-b5df-76a9d02bb998",
     "brand": "Opel",
     "model": "Insignia",
     "hp": 200,
     "price": 39790.0
   },
   {
-    "id": "e9dea672-9b0d-42aa-a380-b98067f2459b",
+    "id": "d9d62103-f9e0-46b9-b373-b86170f1aa89",
     "brand": "Aston Martin",
     "model": "DBS",
     "hp": 715,
     "price": 303974.0
   },
   {
-    "id": "f0b1632f-207c-451e-8acf-cc6b1a08721b",
+    "id": "b0b64033-d57e-4dc9-a144-2c82e70a24c6",
     "brand": "Genesis",
     "model": "G80",
     "hp": 420,
     "price": 59450.0
   },
   {
-    "id": "61c3f45a-8f8d-44e5-8f84-71e3c7901dab",
+    "id": "4ed3c810-ea6a-4d3d-837e-d21ab861e4f2",
     "brand": "Tesla",
     "model": "Model 3",
     "hp": 283,
     "price": 42990.0
   },
   {
-    "id": "dbf617c9-6f59-4947-9902-7f06e18660d4",
+    "id": "03326cce-b834-4e42-9353-5bb8464339b4",
     "brand": "Tesla",
     "model": "Model Y",
     "hp": 384,

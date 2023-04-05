@@ -1,20 +1,27 @@
 [
   {
-    "id": "33dae0db-2dea-470b-a9e2-732543bffcb0",
+    "id": "651de9d1-ec98-47d0-b5df-76a9d02bb998",
     "brand": "Opel",
     "model": "Insignia",
     "hp": 200,
     "price": 39790.0
   },
   {
-    "id": "c8e5c8c3-7723-4812-bf9e-7b96254e4c2c",
+    "id": "5e527cd3-65b6-402b-9084-6c0d29b8cec9",
     "brand": "Opel",
     "model": "Astra",
     "hp": 150,
     "price": 28990.0
   },
   {
-    "id": "7663fc22-fb6c-4ba2-af72-3c6867bddcc2",
+    "id": "c1812817-2354-47c8-86a3-7718b2c5402e",
+    "brand": "Opel",
+    "model": "Corsa",
+    "hp": 100,
+    "price": 15490.0
+  },
+  {
+    "id": "57160894-bcb3-4355-93db-5c6adaebbad8",
     "brand": "Opel",
     "model": "Corsa",
     "hp": 100,
