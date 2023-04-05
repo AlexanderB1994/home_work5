@@ -1,13 +1,20 @@
 [
   {
-    "id": "7bc17684-befa-4d91-a58d-a59dbcfcef7b",
+    "id": "6476fd5f-4381-49cb-817e-9dc075518d85",
     "brand": "Chevrolet",
     "model": "Camaro",
     "hp": 335,
     "price": 36000.0
   },
   {
-    "id": "f44006a9-8e5e-4a34-b7f8-778af9b6e9e1",
+    "id": "d811f89a-17a7-4d7e-aa77-a9a1d12a14e7",
+    "brand": "Chevrolet",
+    "model": "Spark",
+    "hp": 98,
+    "price": 13400.0
+  },
+  {
+    "id": "79493709-9d56-4c3c-a0cb-5fac4ce359d7",
     "brand": "Chevrolet",
     "model": "Spark",
     "hp": 98,

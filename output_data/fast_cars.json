@@ -1,76 +1,76 @@
 [
   {
-    "id": "5235d2af-2a11-4677-9d03-1dffd0b97972",
+    "id": "5361674f-1e00-4f67-911d-64c1adc67f2c",
     "brand": "Toyota",
     "model": "Corolla",
     "hp": 139,
     "price": 19500.0
   },
   {
-    "id": "8bf3cc99-8206-4d63-bbe5-32f721ce9ff1",
+    "id": "f1d03923-a72a-4b59-959c-a8ef277cfc4f",
     "brand": "Honda",
     "model": "Civic",
     "hp": 158,
     "price": 22500.0
   },
   {
-    "id": "3d3385d7-1a9e-4385-b262-fca4d9df6870",
+    "id": "afb352b0-a4e1-4e5f-8761-89f6152e8bcc",
     "brand": "Volkswagen",
     "model": "Golf",
     "hp": 147,
     "price": 26000.0
   },
   {
-    "id": "84d1f329-d907-4b99-9ab4-aacdce278f23",
+    "id": "52e1b83d-d8d5-4f52-a005-5f1b1d80a4be",
     "brand": "Nissan",
     "model": "Versa",
     "hp": 122,
     "price": 14730.0
   },
   {
-    "id": "f89f7c57-3fbf-4ec5-a580-d28ca09f2e73",
+    "id": "dc3b591e-f012-444d-8bb0-c4e0fbd0a6a9",
     "brand": "Kia",
     "model": "Rio",
     "hp": 120,
     "price": 15850.0
   },
   {
-    "id": "8b12973b-a72c-4a2a-bc7e-ca8d0f577efc",
+    "id": "5c6aaf03-371a-48db-9416-cc6857bd133c",
     "brand": "Hyundai",
     "model": "Accent",
     "hp": 120,
     "price": 15395.0
   },
   {
-    "id": "54c630b1-515c-41b8-8e2c-ec314249b06c",
+    "id": "f2f9b17e-4a99-4b98-93d2-b33506060929",
     "brand": "Kia",
     "model": "Soul",
     "hp": 147,
     "price": 17590.0
   },
   {
-    "id": "4df7fb0b-09a3-4909-8af3-1cc6b9681c34",
+    "id": "0fa135ff-f3b1-43b0-999c-d304dbd3e6ed",
     "brand": "Ford",
     "model": "EcoSport",
     "hp": 123,
     "price": 19995.0
   },
   {
-    "id": "1492cde1-c6da-4637-8c5c-dcf0700bb628",
+    "id": "9d1fe232-c6e0-4893-8df0-771fcd3fa859",
     "brand": "Honda",
     "model": "Fit",
     "hp": 128,
     "price": 16990.0
   },
   {
-    "id": "5e527cd3-65b6-402b-9084-6c0d29b8cec9",
+    "id": "a3fbc927-80f6-4fce-9f8d-d978832e2e29",
     "brand": "Opel",
     "model": "Astra",
     "hp": 150,
     "price": 28990.0
   },
   {
-    "id": "fd34bb59-efc0-472f-8e57-11d6c3b0306b",
+    "id": "1b601e05-35ec-4e07-9fd6-60cc64b2efc7",
     "brand": "Mazda",
     "model": "CX-3",
     "hp": 148,

@@ -1,86 +1,93 @@
 [
   {
-    "id": "5235d2af-2a11-4677-9d03-1dffd0b97972",
+    "id": "5361674f-1e00-4f67-911d-64c1adc67f2c",
     "brand": "Toyota",
     "model": "Corolla",
     "hp": 139,
     "price": 19500.0
   },
   {
-    "id": "84d1f329-d907-4b99-9ab4-aacdce278f23",
+    "id": "52e1b83d-d8d5-4f52-a005-5f1b1d80a4be",
     "brand": "Nissan",
     "model": "Versa",
     "hp": 122,
     "price": 14730.0
   },
   {
-    "id": "f89f7c57-3fbf-4ec5-a580-d28ca09f2e73",
+    "id": "dc3b591e-f012-444d-8bb0-c4e0fbd0a6a9",
     "brand": "Kia",
     "model": "Rio",
     "hp": 120,
     "price": 15850.0
   },
   {
-    "id": "f44006a9-8e5e-4a34-b7f8-778af9b6e9e1",
+    "id": "d811f89a-17a7-4d7e-aa77-a9a1d12a14e7",
     "brand": "Chevrolet",
     "model": "Spark",
     "hp": 98,
     "price": 13400.0
   },
   {
-    "id": "8b12973b-a72c-4a2a-bc7e-ca8d0f577efc",
+    "id": "5c6aaf03-371a-48db-9416-cc6857bd133c",
     "brand": "Hyundai",
     "model": "Accent",
     "hp": 120,
     "price": 15395.0
   },
   {
-    "id": "f44a5b9b-915d-4762-9944-450e6cf65307",
+    "id": "1512080a-ab71-4ebe-8e14-579d0077d634",
     "brand": "Mitsubishi",
     "model": "Mirage",
     "hp": 78,
     "price": 14295.0
   },
   {
-    "id": "54c630b1-515c-41b8-8e2c-ec314249b06c",
+    "id": "f2f9b17e-4a99-4b98-93d2-b33506060929",
     "brand": "Kia",
     "model": "Soul",
     "hp": 147,
     "price": 17590.0
   },
   {
-    "id": "4df7fb0b-09a3-4909-8af3-1cc6b9681c34",
+    "id": "0fa135ff-f3b1-43b0-999c-d304dbd3e6ed",
     "brand": "Ford",
     "model": "EcoSport",
     "hp": 123,
     "price": 19995.0
   },
   {
-    "id": "1492cde1-c6da-4637-8c5c-dcf0700bb628",
+    "id": "9d1fe232-c6e0-4893-8df0-771fcd3fa859",
     "brand": "Honda",
     "model": "Fit",
     "hp": 128,
     "price": 16990.0
   },
   {
-    "id": "fd34bb59-efc0-472f-8e57-11d6c3b0306b",
+    "id": "1b601e05-35ec-4e07-9fd6-60cc64b2efc7",
     "brand": "Mazda",
     "model": "CX-3",
     "hp": 148,
     "price": 19350.0
   },
   {
-    "id": "c1812817-2354-47c8-86a3-7718b2c5402e",
+    "id": "6c54da53-3c14-4051-be93-9378657fb9ca",
     "brand": "Opel",
     "model": "Corsa",
     "hp": 100,
     "price": 15490.0
   },
   {
-    "id": "57160894-bcb3-4355-93db-5c6adaebbad8",
+    "id": "f3cb57eb-36a5-4dec-a666-e28f1ccc126f",
     "brand": "Opel",
     "model": "Corsa",
     "hp": 100,
     "price": 15490.0
+  },
+  {
+    "id": "79493709-9d56-4c3c-a0cb-5fac4ce359d7",
+    "brand": "Chevrolet",
+    "model": "Spark",
+    "hp": 98,
+    "price": 13400.0
   }
 ]
